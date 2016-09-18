@@ -1,2 +1,6 @@
 <?php
-// this is code , function
+// one start
+function add(){
+	return 'ss';
+	}
+//end one
