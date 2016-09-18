@@ -6,10 +6,5 @@
 			return $ccc;
 		}
 	}
-	class name1{
-		public $oneday;
-		public function set($value=''){
-			$this->oneday=$value;
-		}
-	}
+
 >
