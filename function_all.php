@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 65a03a5... ressss
 //不不不不不懂，英文英文英文
@@ -18,3 +19,5 @@ function aaa(){
 =======
 	}
 >>>>>>> parent of 65a03a5... ressss
+=======
+>>>>>>> parent of 58ed81c... Revert "function"
