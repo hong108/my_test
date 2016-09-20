@@ -10,3 +10,9 @@ function two(){
 	return "two";
 	}
 //end two
+
+//add three
+function three(){
+	return "three";
+}
+//end three
